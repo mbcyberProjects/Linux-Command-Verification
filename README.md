@@ -28,7 +28,7 @@ Enter a Linux command when prompted to receive an explanation.
 
 Example:
 
-Input: ls
+Input: "what does the ls command do?"
 Output: "Lists directory contents."
 
 
